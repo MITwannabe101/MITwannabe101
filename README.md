@@ -6,7 +6,7 @@
 	<body>
 		<h3>--- A bit about me---</h3>
 		<h4>- I am 13 years old<br>- I have been coding python for almost 4 months<br>- I am in year 9 (8th grade)<br>- I would LOVE to go to MIT
-			<br>- I am a MASSIVE nerd ( I'm talking star wars, doing maths in my spare time, being a social reject)<br>- we are all gonna die because of climate change
+			<br>- I am a massive nerd ( I'm talking star wars, doing maths in my spare time, being a social reject)<br>- we are all gonna die because of climate change
 		</h4><hr>
 	<body>
 		<h3>--- My hobbies and skills ---</h3>
