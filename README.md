@@ -14,7 +14,7 @@
 	</body>
 	<body>
 		<h3>--- My best prjocets ( all in Python)---</h3>
-		<h4>- A 300 line one time code cryptogram<br>-A live earthquake feed<br>- A spyware exe<br>-A monte carlo simulation of my own version of the drake equation
+		<h4>- A 300 line one time code cryptogram<br>-A live earthquake feed<br>- A spyware exe<br>-A monte carlo simulation of my own version of the drake equation<br>- A trojan horse that uses HTTp to get and send commands and outputs (respectivley)
 			<br>(they're not great but I havn't been coding for long)
 		</h4>
 	</body>
