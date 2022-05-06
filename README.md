@@ -5,12 +5,12 @@
 	</body>
 	<body>
 		<h3>--- A bit about me---</h3>
-		<h4>- I am 13 years old<br>- I have been coding python for almost 4 months<br>- I am in year 9 (8th grade)<br>- I would LOVE to go to MIT
+		<h4>- I am 14 years old<br>- I have been coding python for almost 6 months<br>- I am in year 9 (8th grade)<br>- I would LOVE to go to MIT
 			<br>- I am a massive nerd ( I'm talking star wars, doing maths in my spare time, being a social reject)<br>- we are all gonna die because of climate change
 		</h4><hr>
 	<body>
 		<h3>--- My hobbies and skills ---</h3>
-		<h4>- Python<br>- Robotics<br>- Data Analysis<br>- Mathematics<br>- Chemistry<br>- Physics<br>- Reading<br>- Guitar<br>- Piano<br>- Judo<br>- Climbing</h4><hr>
+		<h4>- Python<br>- Robotics<br>- Data Analysis<br>- Penetration testing<br>- Mathematics<br>- Chemistry<br>- Physics<br>- Reading<br>- Guitar<br>- Piano<br>- Judo<br>- Climbing</h4><hr>
 	</body>
 	<body>
 		<h3>--- My best prjocets ( all in Python)---</h3>
